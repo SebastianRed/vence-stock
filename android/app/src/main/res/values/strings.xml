@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vence-stock</string>
+    <string name="title_activity_main">vence-stock</string>
+    <string name="package_name">cl.sebastianrojo.vencestock</string>
+    <string name="custom_url_scheme">cl.sebastianrojo.vencestock</string>
+</resources>
